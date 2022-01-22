@@ -1,0 +1,14 @@
+{
+  "name": "tony-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del curso profesional de Javascript de la Escuela de Javascript",
+  "scripts": {
+    "start": "live-server " 
+  },
+  "keywords": [],
+  "author": "Juan Ríos <tonyriosb@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
